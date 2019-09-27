@@ -1,6 +1,6 @@
 # TODO TODAY
-### Primeiro aplicativo desenvolvido em flutter, uma lista de tarefas onde se é possível marcar ou desmarcar tarefas
-já conclúidas.
+### Primeiro aplicativo desenvolvido em flutter, uma lista de tarefas onde se é possível marcar ou desmarcar tarefas já conclúidas.
+
 
 
 ### feito com base em : https://app.balta.io/courses/7184
